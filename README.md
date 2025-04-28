@@ -14,4 +14,4 @@ Permite calcular a média de consumo de combustível de veículos de forma rápi
 
 Projeto criado para a disciplina de **Projeto, Design e Engenharia de Processos** 2025.
 
-Desenvolvido por: Alisson de Morais Bosa, Júlia de Lima Miranda e Renna Terre Gomes 
+Desenvolvido por: Alisson de Morais Bosa, Júlia de Lima Miranda e Renan Terre Gomes 
